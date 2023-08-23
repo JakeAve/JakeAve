@@ -71,7 +71,7 @@
 
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=50&duration=1&pause=200&color=39D353&center=true&vCenter=true&width=1000&height=65&lines=%F0%9F%8C%8E;%F0%9F%8C%8D;%F0%9F%8C%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=50&duration=1&pause=200&color=39D353&center=true&vCenter=true&width=1000&height=70&lines=%F0%9F%8C%8E;%F0%9F%8C%8D;%F0%9F%8C%8F)](https://git.io/typing-svg)
 
 
 </div>
