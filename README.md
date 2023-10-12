@@ -48,6 +48,7 @@
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://home.aveek.io/GitHub-Profile-Badges)
 [![DynanmoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)](https://home.aveek.io/GitHub-Profile-Badges)
 [![Github Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)](https://home.aveek.io/GitHub-Profile-Badges)
+[![THREE.JS](https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white)](https://home.aveek.io/GitHub-Profile-Badges)
 [![McDonalds](https://img.shields.io/badge/McDonald's-FBC817.svg?style=for-the-badge&logo=McDonald's&logoColor=black)](https://home.aveek.io/GitHub-Profile-Badges)
 
 </div>
