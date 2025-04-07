@@ -1,7 +1,3 @@
-![#202020](https://via.placeholder.com/16/202020/000000?text=+)
-![#F5F5F5](https://via.placeholder.com/16/F5F5F5/000000?text=+)
-![#39d353](https://via.placeholder.com/16/39d353/000000?text=+)
-
 <h1 color=#F5F5F5 align=center>@JakeAve</h1>
 
 <div align=center>
