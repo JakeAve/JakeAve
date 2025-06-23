@@ -72,5 +72,4 @@
 
 
 </div>
-
-
+PGP Fingerprint: <pre>20C8 F929 9F59 0004 0E48  C12C 454F 0481 E4D4 017F</pre>
